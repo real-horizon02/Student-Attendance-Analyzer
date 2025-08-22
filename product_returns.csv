@@ -1,0 +1,1001 @@
+ReturnID,Date,Region,Category,Brand,Reason,ProductType,Quantity,Value
+1,2024-01-01,East,Electronics,Globex,Defective,Premium,2,143
+2,2024-01-02,West,Electronics,Globex,Changed Mind,Premium,4,971
+3,2024-01-03,North,Electronics,Globex,Size Issue,Premium,1,416
+4,2024-01-04,East,Beauty,Soylent,Changed Mind,Standard,4,480
+5,2024-01-05,East,Toys,Acme,Changed Mind,Standard,2,244
+6,2024-01-06,West,Beauty,Umbrella,Late Delivery,Standard,2,426
+7,2024-01-07,North,Toys,Initech,Changed Mind,Premium,1,462
+8,2024-01-08,North,Beauty,Umbrella,Changed Mind,Standard,3,149
+9,2024-01-09,East,Beauty,Umbrella,Shipping Damage,Premium,3,164
+10,2024-01-10,South,Home & Kitchen,Acme,Size Issue,Standard,2,454
+11,2024-01-11,East,Beauty,Acme,Shipping Damage,Premium,3,899
+12,2024-01-12,East,Clothing,Acme,Shipping Damage,Standard,2,263
+13,2024-01-13,East,Home & Kitchen,Globex,Defective,Standard,1,240
+14,2024-01-14,East,Beauty,Soylent,Shipping Damage,Standard,1,925
+15,2024-01-15,West,Electronics,Globex,Late Delivery,Premium,2,227
+16,2024-01-16,North,Clothing,Soylent,Late Delivery,Premium,1,497
+17,2024-01-17,West,Clothing,Soylent,Defective,Standard,4,979
+18,2024-01-18,West,Clothing,Umbrella,Size Issue,Standard,4,562
+19,2024-01-19,West,Home & Kitchen,Umbrella,Size Issue,Standard,1,850
+20,2024-01-20,East,Beauty,Soylent,Shipping Damage,Premium,2,935
+21,2024-01-21,South,Beauty,Soylent,Shipping Damage,Standard,2,907
+22,2024-01-22,North,Electronics,Globex,Shipping Damage,Standard,1,286
+23,2024-01-23,South,Electronics,Globex,Size Issue,Standard,3,819
+24,2024-01-24,West,Clothing,Umbrella,Changed Mind,Standard,4,831
+25,2024-01-25,West,Electronics,Acme,Late Delivery,Premium,3,289
+26,2024-01-26,South,Home & Kitchen,Soylent,Changed Mind,Premium,2,487
+27,2024-01-27,South,Beauty,Globex,Changed Mind,Standard,2,528
+28,2024-01-28,South,Clothing,Umbrella,Size Issue,Standard,3,957
+29,2024-01-29,West,Electronics,Globex,Changed Mind,Premium,1,383
+30,2024-01-30,West,Home & Kitchen,Soylent,Defective,Premium,3,963
+31,2024-01-31,North,Home & Kitchen,Soylent,Shipping Damage,Standard,3,336
+32,2024-02-01,North,Electronics,Initech,Defective,Premium,4,293
+33,2024-02-02,West,Beauty,Acme,Late Delivery,Premium,4,386
+34,2024-02-03,South,Electronics,Initech,Shipping Damage,Standard,3,870
+35,2024-02-04,South,Clothing,Umbrella,Changed Mind,Premium,3,857
+36,2024-02-05,North,Electronics,Globex,Late Delivery,Premium,2,235
+37,2024-02-06,West,Home & Kitchen,Umbrella,Shipping Damage,Standard,4,891
+38,2024-02-07,North,Electronics,Soylent,Changed Mind,Standard,4,882
+39,2024-02-08,North,Beauty,Initech,Defective,Premium,2,270
+40,2024-02-09,East,Toys,Initech,Shipping Damage,Standard,1,258
+41,2024-02-10,East,Electronics,Initech,Changed Mind,Premium,4,300
+42,2024-02-11,East,Beauty,Umbrella,Defective,Standard,4,586
+43,2024-02-12,South,Beauty,Soylent,Late Delivery,Premium,1,656
+44,2024-02-13,West,Home & Kitchen,Globex,Late Delivery,Standard,4,875
+45,2024-02-14,West,Beauty,Globex,Late Delivery,Premium,4,682
+46,2024-02-15,West,Beauty,Umbrella,Late Delivery,Premium,1,603
+47,2024-02-16,West,Beauty,Initech,Size Issue,Premium,1,975
+48,2024-02-17,East,Beauty,Acme,Shipping Damage,Standard,3,470
+49,2024-02-18,South,Clothing,Umbrella,Shipping Damage,Standard,2,202
+50,2024-02-19,South,Clothing,Umbrella,Size Issue,Premium,2,224
+51,2024-02-20,East,Home & Kitchen,Soylent,Changed Mind,Premium,1,412
+52,2024-02-21,South,Electronics,Globex,Changed Mind,Standard,1,897
+53,2024-02-22,East,Beauty,Umbrella,Late Delivery,Standard,4,557
+54,2024-02-23,West,Electronics,Umbrella,Defective,Standard,3,329
+55,2024-02-24,East,Electronics,Initech,Changed Mind,Standard,3,757
+56,2024-02-25,West,Home & Kitchen,Initech,Defective,Standard,1,981
+57,2024-02-26,West,Beauty,Acme,Shipping Damage,Standard,4,296
+58,2024-02-27,North,Beauty,Soylent,Defective,Premium,4,984
+59,2024-02-28,East,Toys,Acme,Shipping Damage,Standard,2,832
+60,2024-02-29,North,Electronics,Initech,Size Issue,Premium,2,522
+61,2024-03-01,East,Electronics,Globex,Size Issue,Standard,4,671
+62,2024-03-02,East,Clothing,Initech,Late Delivery,Standard,2,709
+63,2024-03-03,North,Toys,Soylent,Changed Mind,Premium,1,270
+64,2024-03-04,North,Clothing,Initech,Late Delivery,Premium,4,481
+65,2024-03-05,East,Clothing,Soylent,Shipping Damage,Standard,2,272
+66,2024-03-06,South,Clothing,Soylent,Late Delivery,Premium,3,762
+67,2024-03-07,West,Home & Kitchen,Soylent,Defective,Premium,4,552
+68,2024-03-08,North,Home & Kitchen,Soylent,Shipping Damage,Premium,4,449
+69,2024-03-09,West,Clothing,Soylent,Size Issue,Premium,3,733
+70,2024-03-10,South,Toys,Globex,Changed Mind,Standard,1,593
+71,2024-03-11,South,Electronics,Acme,Shipping Damage,Premium,3,719
+72,2024-03-12,South,Toys,Umbrella,Shipping Damage,Standard,4,103
+73,2024-03-13,North,Beauty,Acme,Defective,Standard,1,192
+74,2024-03-14,South,Home & Kitchen,Soylent,Changed Mind,Standard,2,105
+75,2024-03-15,North,Electronics,Globex,Size Issue,Standard,2,387
+76,2024-03-16,South,Electronics,Initech,Shipping Damage,Premium,2,717
+77,2024-03-17,West,Beauty,Globex,Shipping Damage,Premium,4,245
+78,2024-03-18,West,Beauty,Soylent,Defective,Standard,3,882
+79,2024-03-19,East,Clothing,Globex,Late Delivery,Standard,1,523
+80,2024-03-20,West,Home & Kitchen,Globex,Size Issue,Standard,2,989
+81,2024-03-21,East,Home & Kitchen,Soylent,Changed Mind,Standard,1,707
+82,2024-03-22,West,Toys,Globex,Shipping Damage,Premium,4,556
+83,2024-03-23,North,Clothing,Umbrella,Shipping Damage,Standard,2,840
+84,2024-03-24,West,Clothing,Umbrella,Size Issue,Premium,4,301
+85,2024-03-25,East,Clothing,Globex,Late Delivery,Standard,3,311
+86,2024-03-26,East,Clothing,Initech,Shipping Damage,Standard,4,105
+87,2024-03-27,South,Home & Kitchen,Soylent,Size Issue,Standard,4,723
+88,2024-03-28,North,Home & Kitchen,Umbrella,Defective,Standard,3,475
+89,2024-03-29,West,Clothing,Initech,Late Delivery,Premium,1,990
+90,2024-03-30,South,Toys,Globex,Changed Mind,Premium,3,546
+91,2024-03-31,West,Electronics,Initech,Shipping Damage,Premium,3,934
+92,2024-04-01,West,Electronics,Acme,Size Issue,Standard,4,205
+93,2024-04-02,South,Toys,Umbrella,Defective,Standard,1,750
+94,2024-04-03,South,Clothing,Globex,Changed Mind,Premium,2,910
+95,2024-04-04,South,Home & Kitchen,Soylent,Size Issue,Premium,3,500
+96,2024-04-05,South,Electronics,Globex,Size Issue,Standard,1,195
+97,2024-04-06,South,Beauty,Soylent,Changed Mind,Standard,3,487
+98,2024-04-07,West,Beauty,Globex,Defective,Premium,3,551
+99,2024-04-08,South,Toys,Initech,Defective,Standard,3,948
+100,2024-04-09,North,Clothing,Initech,Late Delivery,Standard,3,908
+101,2024-04-10,East,Electronics,Initech,Shipping Damage,Premium,4,515
+102,2024-04-11,South,Clothing,Acme,Changed Mind,Standard,1,825
+103,2024-04-12,South,Electronics,Soylent,Changed Mind,Premium,1,603
+104,2024-04-13,West,Toys,Initech,Changed Mind,Standard,1,553
+105,2024-04-14,South,Toys,Acme,Defective,Premium,3,390
+106,2024-04-15,South,Beauty,Soylent,Shipping Damage,Standard,4,633
+107,2024-04-16,South,Clothing,Globex,Late Delivery,Premium,3,292
+108,2024-04-17,West,Beauty,Acme,Size Issue,Premium,3,249
+109,2024-04-18,South,Clothing,Umbrella,Size Issue,Premium,1,979
+110,2024-04-19,East,Beauty,Acme,Changed Mind,Premium,3,858
+111,2024-04-20,West,Home & Kitchen,Acme,Shipping Damage,Standard,2,878
+112,2024-04-21,East,Home & Kitchen,Soylent,Defective,Standard,3,862
+113,2024-04-22,West,Home & Kitchen,Globex,Shipping Damage,Premium,2,614
+114,2024-04-23,South,Home & Kitchen,Umbrella,Shipping Damage,Standard,3,492
+115,2024-04-24,East,Electronics,Initech,Defective,Standard,4,415
+116,2024-04-25,West,Home & Kitchen,Initech,Changed Mind,Standard,4,175
+117,2024-04-26,North,Toys,Acme,Shipping Damage,Standard,1,698
+118,2024-04-27,South,Toys,Soylent,Size Issue,Standard,3,369
+119,2024-04-28,West,Electronics,Soylent,Defective,Premium,2,324
+120,2024-04-29,North,Home & Kitchen,Initech,Late Delivery,Premium,2,629
+121,2024-04-30,West,Home & Kitchen,Umbrella,Changed Mind,Premium,3,212
+122,2024-05-01,North,Home & Kitchen,Globex,Defective,Premium,2,350
+123,2024-05-02,South,Beauty,Umbrella,Late Delivery,Standard,4,332
+124,2024-05-03,East,Clothing,Globex,Late Delivery,Standard,2,940
+125,2024-05-04,North,Beauty,Initech,Shipping Damage,Premium,1,890
+126,2024-05-05,West,Clothing,Globex,Shipping Damage,Standard,4,813
+127,2024-05-06,South,Home & Kitchen,Soylent,Shipping Damage,Standard,4,182
+128,2024-05-07,North,Home & Kitchen,Acme,Defective,Premium,4,224
+129,2024-05-08,West,Beauty,Acme,Defective,Standard,3,274
+130,2024-05-09,West,Beauty,Initech,Changed Mind,Premium,3,168
+131,2024-05-10,West,Clothing,Soylent,Shipping Damage,Premium,4,146
+132,2024-05-11,North,Toys,Umbrella,Late Delivery,Standard,3,983
+133,2024-05-12,North,Clothing,Soylent,Size Issue,Standard,2,355
+134,2024-05-13,North,Beauty,Acme,Changed Mind,Premium,3,826
+135,2024-05-14,East,Beauty,Acme,Defective,Premium,3,129
+136,2024-05-15,North,Electronics,Soylent,Changed Mind,Standard,4,380
+137,2024-05-16,North,Beauty,Soylent,Changed Mind,Premium,1,336
+138,2024-05-17,North,Electronics,Acme,Changed Mind,Premium,1,347
+139,2024-05-18,East,Toys,Umbrella,Changed Mind,Premium,1,467
+140,2024-05-19,North,Clothing,Initech,Size Issue,Standard,2,594
+141,2024-05-20,West,Clothing,Initech,Shipping Damage,Premium,3,124
+142,2024-05-21,North,Electronics,Soylent,Late Delivery,Standard,1,685
+143,2024-05-22,West,Clothing,Initech,Changed Mind,Premium,4,817
+144,2024-05-23,West,Beauty,Acme,Changed Mind,Standard,1,589
+145,2024-05-24,West,Home & Kitchen,Acme,Changed Mind,Premium,1,593
+146,2024-05-25,East,Electronics,Soylent,Shipping Damage,Standard,3,413
+147,2024-05-26,East,Clothing,Soylent,Defective,Standard,3,705
+148,2024-05-27,East,Electronics,Soylent,Defective,Standard,3,474
+149,2024-05-28,North,Electronics,Umbrella,Size Issue,Premium,2,738
+150,2024-05-29,West,Home & Kitchen,Initech,Defective,Premium,2,124
+151,2024-05-30,East,Beauty,Soylent,Changed Mind,Premium,1,433
+152,2024-05-31,East,Electronics,Globex,Changed Mind,Standard,3,454
+153,2024-06-01,North,Clothing,Globex,Changed Mind,Premium,1,215
+154,2024-06-02,East,Toys,Acme,Size Issue,Standard,4,147
+155,2024-06-03,North,Electronics,Initech,Changed Mind,Premium,4,837
+156,2024-06-04,South,Electronics,Soylent,Defective,Standard,3,877
+157,2024-06-05,East,Home & Kitchen,Globex,Shipping Damage,Standard,3,198
+158,2024-06-06,South,Beauty,Initech,Shipping Damage,Standard,4,558
+159,2024-06-07,North,Toys,Acme,Late Delivery,Premium,3,622
+160,2024-06-08,West,Clothing,Umbrella,Defective,Premium,2,696
+161,2024-06-09,East,Toys,Initech,Changed Mind,Premium,2,504
+162,2024-06-10,North,Clothing,Initech,Shipping Damage,Standard,3,313
+163,2024-06-11,West,Beauty,Umbrella,Defective,Standard,4,784
+164,2024-06-12,West,Clothing,Initech,Shipping Damage,Premium,1,602
+165,2024-06-13,South,Home & Kitchen,Acme,Changed Mind,Premium,3,820
+166,2024-06-14,North,Home & Kitchen,Acme,Shipping Damage,Premium,3,547
+167,2024-06-15,West,Home & Kitchen,Umbrella,Late Delivery,Standard,1,993
+168,2024-06-16,East,Home & Kitchen,Soylent,Late Delivery,Standard,3,675
+169,2024-06-17,East,Toys,Globex,Shipping Damage,Standard,1,357
+170,2024-06-18,South,Beauty,Soylent,Defective,Standard,4,943
+171,2024-06-19,West,Clothing,Initech,Defective,Standard,2,220
+172,2024-06-20,North,Clothing,Globex,Defective,Premium,4,909
+173,2024-06-21,East,Home & Kitchen,Umbrella,Shipping Damage,Standard,2,153
+174,2024-06-22,West,Home & Kitchen,Umbrella,Defective,Standard,1,430
+175,2024-06-23,West,Electronics,Globex,Changed Mind,Standard,2,883
+176,2024-06-24,South,Beauty,Acme,Late Delivery,Standard,4,340
+177,2024-06-25,East,Toys,Globex,Changed Mind,Standard,2,854
+178,2024-06-26,East,Clothing,Initech,Defective,Premium,1,629
+179,2024-06-27,North,Electronics,Acme,Changed Mind,Standard,2,582
+180,2024-06-28,East,Electronics,Umbrella,Defective,Standard,3,286
+181,2024-06-29,North,Clothing,Globex,Shipping Damage,Standard,4,957
+182,2024-06-30,East,Toys,Soylent,Changed Mind,Premium,3,755
+183,2024-07-01,South,Electronics,Soylent,Shipping Damage,Premium,1,361
+184,2024-07-02,East,Electronics,Initech,Shipping Damage,Premium,2,463
+185,2024-07-03,North,Beauty,Soylent,Size Issue,Standard,3,590
+186,2024-07-04,North,Toys,Globex,Defective,Premium,3,530
+187,2024-07-05,South,Electronics,Globex,Late Delivery,Standard,2,338
+188,2024-07-06,East,Toys,Soylent,Defective,Standard,2,403
+189,2024-07-07,East,Clothing,Globex,Late Delivery,Premium,4,397
+190,2024-07-08,South,Home & Kitchen,Initech,Defective,Standard,3,175
+191,2024-07-09,East,Electronics,Acme,Shipping Damage,Standard,3,799
+192,2024-07-10,East,Beauty,Initech,Changed Mind,Standard,1,432
+193,2024-07-11,North,Clothing,Initech,Changed Mind,Premium,4,999
+194,2024-07-12,East,Toys,Globex,Size Issue,Standard,1,857
+195,2024-07-13,East,Clothing,Acme,Late Delivery,Standard,3,741
+196,2024-07-14,South,Electronics,Globex,Late Delivery,Premium,1,573
+197,2024-07-15,South,Toys,Umbrella,Late Delivery,Standard,3,926
+198,2024-07-16,West,Home & Kitchen,Globex,Shipping Damage,Standard,3,382
+199,2024-07-17,North,Clothing,Globex,Late Delivery,Premium,1,690
+200,2024-07-18,East,Electronics,Globex,Changed Mind,Standard,1,171
+201,2024-07-19,East,Beauty,Acme,Shipping Damage,Standard,2,362
+202,2024-07-20,West,Toys,Globex,Defective,Standard,2,802
+203,2024-07-21,East,Clothing,Acme,Late Delivery,Standard,2,978
+204,2024-07-22,North,Clothing,Soylent,Late Delivery,Standard,3,986
+205,2024-07-23,West,Home & Kitchen,Umbrella,Defective,Premium,1,674
+206,2024-07-24,North,Home & Kitchen,Acme,Late Delivery,Premium,4,991
+207,2024-07-25,West,Beauty,Soylent,Defective,Premium,3,111
+208,2024-07-26,West,Beauty,Acme,Shipping Damage,Premium,4,240
+209,2024-07-27,South,Electronics,Acme,Changed Mind,Standard,1,865
+210,2024-07-28,North,Electronics,Umbrella,Defective,Standard,3,654
+211,2024-07-29,East,Beauty,Initech,Size Issue,Standard,4,116
+212,2024-07-30,East,Beauty,Initech,Defective,Standard,4,162
+213,2024-07-31,North,Toys,Acme,Late Delivery,Standard,2,352
+214,2024-08-01,East,Home & Kitchen,Globex,Shipping Damage,Premium,2,564
+215,2024-08-02,East,Electronics,Soylent,Shipping Damage,Premium,2,475
+216,2024-08-03,North,Home & Kitchen,Globex,Defective,Standard,3,903
+217,2024-08-04,West,Home & Kitchen,Globex,Changed Mind,Standard,1,619
+218,2024-08-05,North,Beauty,Acme,Size Issue,Standard,1,936
+219,2024-08-06,West,Toys,Acme,Shipping Damage,Premium,2,189
+220,2024-08-07,East,Clothing,Acme,Late Delivery,Standard,2,819
+221,2024-08-08,East,Toys,Acme,Late Delivery,Standard,2,903
+222,2024-08-09,East,Toys,Initech,Changed Mind,Standard,4,895
+223,2024-08-10,South,Home & Kitchen,Acme,Shipping Damage,Premium,2,729
+224,2024-08-11,West,Toys,Initech,Defective,Standard,4,960
+225,2024-08-12,South,Electronics,Initech,Late Delivery,Premium,1,274
+226,2024-08-13,South,Home & Kitchen,Acme,Changed Mind,Premium,3,175
+227,2024-08-14,North,Electronics,Umbrella,Shipping Damage,Premium,3,712
+228,2024-08-15,South,Clothing,Soylent,Shipping Damage,Premium,3,762
+229,2024-08-16,North,Home & Kitchen,Globex,Shipping Damage,Premium,3,499
+230,2024-08-17,North,Clothing,Initech,Shipping Damage,Premium,4,881
+231,2024-08-18,South,Home & Kitchen,Soylent,Shipping Damage,Standard,4,170
+232,2024-08-19,West,Beauty,Umbrella,Late Delivery,Standard,2,279
+233,2024-08-20,West,Toys,Globex,Changed Mind,Standard,4,223
+234,2024-08-21,West,Beauty,Globex,Shipping Damage,Premium,2,480
+235,2024-08-22,West,Clothing,Initech,Size Issue,Standard,2,392
+236,2024-08-23,West,Toys,Acme,Size Issue,Premium,3,896
+237,2024-08-24,South,Home & Kitchen,Umbrella,Changed Mind,Premium,4,294
+238,2024-08-25,South,Toys,Initech,Defective,Premium,4,327
+239,2024-08-26,East,Electronics,Umbrella,Defective,Standard,2,530
+240,2024-08-27,West,Toys,Acme,Defective,Premium,2,535
+241,2024-08-28,South,Electronics,Acme,Size Issue,Premium,1,886
+242,2024-08-29,East,Toys,Initech,Defective,Standard,1,560
+243,2024-08-30,West,Electronics,Acme,Late Delivery,Standard,2,717
+244,2024-08-31,North,Clothing,Soylent,Shipping Damage,Premium,1,120
+245,2024-09-01,East,Beauty,Globex,Size Issue,Premium,1,163
+246,2024-09-02,South,Home & Kitchen,Initech,Changed Mind,Standard,2,264
+247,2024-09-03,North,Toys,Umbrella,Changed Mind,Standard,2,126
+248,2024-09-04,North,Beauty,Soylent,Shipping Damage,Standard,4,410
+249,2024-09-05,North,Home & Kitchen,Initech,Size Issue,Premium,2,384
+250,2024-09-06,East,Home & Kitchen,Acme,Defective,Standard,2,759
+251,2024-09-07,South,Electronics,Acme,Defective,Standard,3,380
+252,2024-09-08,North,Clothing,Acme,Late Delivery,Standard,4,937
+253,2024-09-09,West,Clothing,Acme,Late Delivery,Premium,4,930
+254,2024-09-10,North,Beauty,Umbrella,Defective,Standard,4,263
+255,2024-09-11,North,Clothing,Soylent,Changed Mind,Standard,3,997
+256,2024-09-12,East,Toys,Globex,Changed Mind,Standard,2,323
+257,2024-09-13,East,Clothing,Umbrella,Late Delivery,Standard,4,883
+258,2024-09-14,South,Beauty,Umbrella,Shipping Damage,Standard,4,245
+259,2024-09-15,West,Clothing,Globex,Defective,Premium,1,967
+260,2024-09-16,East,Toys,Globex,Late Delivery,Premium,4,129
+261,2024-09-17,North,Electronics,Acme,Late Delivery,Premium,2,144
+262,2024-09-18,South,Beauty,Umbrella,Defective,Standard,2,886
+263,2024-09-19,North,Electronics,Initech,Defective,Premium,1,570
+264,2024-09-20,North,Electronics,Globex,Changed Mind,Premium,4,133
+265,2024-09-21,East,Electronics,Globex,Shipping Damage,Premium,4,752
+266,2024-09-22,South,Home & Kitchen,Soylent,Shipping Damage,Standard,4,526
+267,2024-09-23,West,Home & Kitchen,Initech,Defective,Standard,3,929
+268,2024-09-24,West,Electronics,Initech,Size Issue,Premium,4,985
+269,2024-09-25,East,Beauty,Globex,Late Delivery,Premium,2,320
+270,2024-09-26,East,Toys,Acme,Late Delivery,Standard,2,967
+271,2024-09-27,South,Toys,Soylent,Defective,Standard,3,633
+272,2024-09-28,West,Clothing,Initech,Size Issue,Premium,3,791
+273,2024-09-29,West,Beauty,Globex,Changed Mind,Standard,4,466
+274,2024-09-30,West,Home & Kitchen,Initech,Defective,Premium,1,940
+275,2024-10-01,North,Electronics,Soylent,Defective,Standard,3,842
+276,2024-10-02,West,Clothing,Soylent,Late Delivery,Premium,3,649
+277,2024-10-03,North,Toys,Umbrella,Defective,Premium,4,681
+278,2024-10-04,South,Home & Kitchen,Globex,Defective,Standard,4,215
+279,2024-10-05,North,Home & Kitchen,Soylent,Defective,Premium,3,338
+280,2024-10-06,South,Electronics,Umbrella,Late Delivery,Premium,1,434
+281,2024-10-07,West,Toys,Umbrella,Changed Mind,Premium,3,540
+282,2024-10-08,West,Beauty,Initech,Changed Mind,Standard,4,247
+283,2024-10-09,South,Home & Kitchen,Initech,Defective,Standard,4,108
+284,2024-10-10,East,Electronics,Umbrella,Late Delivery,Standard,3,387
+285,2024-10-11,South,Beauty,Initech,Changed Mind,Premium,1,487
+286,2024-10-12,East,Toys,Soylent,Changed Mind,Standard,3,149
+287,2024-10-13,North,Home & Kitchen,Acme,Changed Mind,Premium,3,949
+288,2024-10-14,North,Beauty,Soylent,Late Delivery,Premium,4,616
+289,2024-10-15,North,Beauty,Umbrella,Late Delivery,Standard,1,954
+290,2024-10-16,West,Beauty,Umbrella,Defective,Standard,2,737
+291,2024-10-17,North,Home & Kitchen,Soylent,Shipping Damage,Premium,1,686
+292,2024-10-18,East,Home & Kitchen,Initech,Changed Mind,Premium,3,776
+293,2024-10-19,North,Clothing,Initech,Shipping Damage,Standard,3,377
+294,2024-10-20,South,Toys,Umbrella,Late Delivery,Standard,3,935
+295,2024-10-21,South,Electronics,Globex,Late Delivery,Standard,1,399
+296,2024-10-22,West,Beauty,Initech,Late Delivery,Premium,4,901
+297,2024-10-23,South,Clothing,Soylent,Shipping Damage,Premium,3,688
+298,2024-10-24,East,Electronics,Initech,Late Delivery,Premium,3,909
+299,2024-10-25,North,Clothing,Soylent,Defective,Premium,1,748
+300,2024-10-26,West,Home & Kitchen,Umbrella,Late Delivery,Premium,2,717
+301,2024-10-27,North,Beauty,Initech,Size Issue,Standard,2,706
+302,2024-10-28,North,Electronics,Soylent,Shipping Damage,Standard,4,234
+303,2024-10-29,East,Electronics,Umbrella,Size Issue,Premium,4,679
+304,2024-10-30,South,Electronics,Globex,Late Delivery,Premium,3,246
+305,2024-10-31,South,Electronics,Soylent,Defective,Standard,1,589
+306,2024-11-01,North,Electronics,Globex,Changed Mind,Standard,3,577
+307,2024-11-02,West,Clothing,Globex,Late Delivery,Standard,4,258
+308,2024-11-03,South,Beauty,Acme,Defective,Standard,1,483
+309,2024-11-04,West,Home & Kitchen,Initech,Shipping Damage,Premium,1,262
+310,2024-11-05,South,Home & Kitchen,Soylent,Size Issue,Standard,4,540
+311,2024-11-06,West,Home & Kitchen,Globex,Size Issue,Premium,2,952
+312,2024-11-07,East,Home & Kitchen,Acme,Size Issue,Standard,2,288
+313,2024-11-08,West,Clothing,Umbrella,Shipping Damage,Standard,1,514
+314,2024-11-09,East,Toys,Soylent,Defective,Standard,3,438
+315,2024-11-10,East,Beauty,Globex,Shipping Damage,Premium,2,706
+316,2024-11-11,West,Electronics,Initech,Size Issue,Premium,3,280
+317,2024-11-12,East,Toys,Acme,Late Delivery,Standard,2,387
+318,2024-11-13,North,Home & Kitchen,Globex,Changed Mind,Premium,2,933
+319,2024-11-14,East,Toys,Initech,Shipping Damage,Premium,3,286
+320,2024-11-15,South,Beauty,Globex,Shipping Damage,Standard,4,983
+321,2024-11-16,West,Electronics,Soylent,Defective,Standard,2,237
+322,2024-11-17,North,Electronics,Soylent,Defective,Premium,2,229
+323,2024-11-18,West,Beauty,Soylent,Shipping Damage,Premium,3,293
+324,2024-11-19,South,Beauty,Acme,Size Issue,Premium,4,415
+325,2024-11-20,South,Home & Kitchen,Soylent,Changed Mind,Standard,2,884
+326,2024-11-21,South,Electronics,Initech,Defective,Standard,2,963
+327,2024-11-22,East,Toys,Globex,Size Issue,Premium,4,243
+328,2024-11-23,East,Clothing,Umbrella,Late Delivery,Standard,2,115
+329,2024-11-24,West,Clothing,Initech,Defective,Standard,4,401
+330,2024-11-25,West,Beauty,Initech,Size Issue,Premium,4,522
+331,2024-11-26,North,Home & Kitchen,Soylent,Size Issue,Premium,3,344
+332,2024-11-27,North,Clothing,Acme,Changed Mind,Standard,1,206
+333,2024-11-28,West,Electronics,Globex,Changed Mind,Standard,4,187
+334,2024-11-29,East,Beauty,Acme,Late Delivery,Premium,3,228
+335,2024-11-30,South,Toys,Globex,Size Issue,Standard,1,986
+336,2024-12-01,West,Beauty,Globex,Size Issue,Standard,2,440
+337,2024-12-02,North,Toys,Acme,Changed Mind,Premium,1,103
+338,2024-12-03,East,Beauty,Initech,Defective,Premium,4,426
+339,2024-12-04,West,Beauty,Globex,Defective,Standard,4,509
+340,2024-12-05,West,Beauty,Acme,Shipping Damage,Standard,4,978
+341,2024-12-06,East,Toys,Globex,Changed Mind,Standard,4,405
+342,2024-12-07,West,Toys,Umbrella,Shipping Damage,Premium,4,706
+343,2024-12-08,East,Beauty,Initech,Changed Mind,Standard,3,820
+344,2024-12-09,South,Clothing,Soylent,Late Delivery,Standard,4,324
+345,2024-12-10,East,Home & Kitchen,Globex,Size Issue,Premium,3,447
+346,2024-12-11,East,Home & Kitchen,Umbrella,Late Delivery,Premium,2,420
+347,2024-12-12,East,Home & Kitchen,Soylent,Changed Mind,Standard,4,658
+348,2024-12-13,West,Toys,Soylent,Size Issue,Premium,4,280
+349,2024-12-14,West,Toys,Globex,Defective,Premium,1,717
+350,2024-12-15,East,Clothing,Acme,Defective,Standard,2,810
+351,2024-12-16,West,Home & Kitchen,Globex,Shipping Damage,Premium,4,485
+352,2024-12-17,North,Home & Kitchen,Umbrella,Changed Mind,Premium,4,717
+353,2024-12-18,North,Beauty,Soylent,Changed Mind,Standard,2,891
+354,2024-12-19,West,Toys,Globex,Defective,Premium,3,871
+355,2024-12-20,West,Home & Kitchen,Acme,Late Delivery,Standard,4,207
+356,2024-12-21,East,Clothing,Globex,Size Issue,Standard,1,630
+357,2024-12-22,South,Clothing,Initech,Late Delivery,Premium,4,509
+358,2024-12-23,West,Home & Kitchen,Acme,Late Delivery,Premium,1,395
+359,2024-12-24,North,Toys,Umbrella,Defective,Premium,1,917
+360,2024-12-25,East,Clothing,Soylent,Defective,Standard,4,270
+361,2024-12-26,West,Beauty,Globex,Defective,Premium,4,430
+362,2024-12-27,North,Clothing,Acme,Shipping Damage,Standard,1,592
+363,2024-12-28,North,Electronics,Initech,Late Delivery,Premium,2,294
+364,2024-12-29,South,Electronics,Acme,Changed Mind,Premium,2,111
+365,2024-12-30,East,Toys,Initech,Size Issue,Premium,4,294
+366,2024-12-31,East,Home & Kitchen,Umbrella,Shipping Damage,Standard,3,589
+367,2025-01-01,South,Toys,Soylent,Changed Mind,Premium,2,894
+368,2025-01-02,South,Toys,Umbrella,Late Delivery,Premium,4,980
+369,2025-01-03,East,Toys,Globex,Defective,Standard,2,281
+370,2025-01-04,East,Toys,Acme,Late Delivery,Standard,3,916
+371,2025-01-05,West,Beauty,Initech,Size Issue,Premium,4,755
+372,2025-01-06,West,Beauty,Initech,Shipping Damage,Premium,3,997
+373,2025-01-07,South,Clothing,Acme,Shipping Damage,Premium,4,415
+374,2025-01-08,West,Electronics,Acme,Size Issue,Standard,3,793
+375,2025-01-09,North,Toys,Globex,Changed Mind,Standard,2,129
+376,2025-01-10,West,Clothing,Umbrella,Changed Mind,Standard,2,695
+377,2025-01-11,West,Electronics,Initech,Shipping Damage,Standard,3,777
+378,2025-01-12,North,Home & Kitchen,Globex,Shipping Damage,Premium,3,895
+379,2025-01-13,South,Beauty,Umbrella,Defective,Standard,3,892
+380,2025-01-14,North,Electronics,Globex,Changed Mind,Standard,4,195
+381,2025-01-15,West,Home & Kitchen,Initech,Size Issue,Standard,2,480
+382,2025-01-16,South,Electronics,Acme,Changed Mind,Premium,4,877
+383,2025-01-17,West,Beauty,Acme,Defective,Premium,2,543
+384,2025-01-18,North,Beauty,Umbrella,Shipping Damage,Standard,1,397
+385,2025-01-19,North,Clothing,Soylent,Shipping Damage,Standard,4,907
+386,2025-01-20,West,Toys,Umbrella,Defective,Premium,2,836
+387,2025-01-21,East,Electronics,Soylent,Size Issue,Premium,2,944
+388,2025-01-22,East,Electronics,Globex,Shipping Damage,Premium,4,460
+389,2025-01-23,North,Home & Kitchen,Globex,Late Delivery,Premium,4,473
+390,2025-01-24,North,Beauty,Initech,Shipping Damage,Premium,2,653
+391,2025-01-25,East,Electronics,Soylent,Late Delivery,Premium,4,402
+392,2025-01-26,East,Beauty,Initech,Defective,Premium,3,520
+393,2025-01-27,West,Electronics,Acme,Defective,Premium,4,345
+394,2025-01-28,West,Clothing,Soylent,Shipping Damage,Standard,4,819
+395,2025-01-29,East,Toys,Umbrella,Changed Mind,Standard,4,336
+396,2025-01-30,West,Electronics,Acme,Late Delivery,Standard,2,633
+397,2025-01-31,West,Beauty,Acme,Size Issue,Standard,3,284
+398,2025-02-01,South,Clothing,Umbrella,Shipping Damage,Standard,1,567
+399,2025-02-02,West,Electronics,Acme,Size Issue,Standard,1,853
+400,2025-02-03,North,Home & Kitchen,Soylent,Shipping Damage,Premium,3,462
+401,2025-02-04,West,Toys,Initech,Changed Mind,Premium,3,382
+402,2025-02-05,West,Electronics,Acme,Changed Mind,Standard,3,652
+403,2025-02-06,East,Clothing,Soylent,Changed Mind,Standard,2,435
+404,2025-02-07,North,Home & Kitchen,Globex,Changed Mind,Premium,1,261
+405,2025-02-08,West,Clothing,Soylent,Defective,Premium,3,259
+406,2025-02-09,West,Clothing,Initech,Defective,Premium,2,573
+407,2025-02-10,South,Home & Kitchen,Soylent,Late Delivery,Standard,1,700
+408,2025-02-11,West,Clothing,Umbrella,Size Issue,Premium,4,421
+409,2025-02-12,West,Home & Kitchen,Initech,Shipping Damage,Standard,2,111
+410,2025-02-13,South,Electronics,Globex,Shipping Damage,Standard,1,523
+411,2025-02-14,East,Home & Kitchen,Umbrella,Defective,Premium,2,172
+412,2025-02-15,West,Home & Kitchen,Soylent,Shipping Damage,Premium,1,687
+413,2025-02-16,South,Toys,Initech,Defective,Standard,1,957
+414,2025-02-17,North,Home & Kitchen,Globex,Late Delivery,Premium,4,300
+415,2025-02-18,East,Home & Kitchen,Umbrella,Size Issue,Premium,2,621
+416,2025-02-19,North,Electronics,Globex,Late Delivery,Standard,3,963
+417,2025-02-20,North,Toys,Soylent,Changed Mind,Premium,4,604
+418,2025-02-21,South,Beauty,Globex,Changed Mind,Standard,4,837
+419,2025-02-22,West,Electronics,Acme,Changed Mind,Standard,1,787
+420,2025-02-23,South,Electronics,Umbrella,Late Delivery,Premium,3,887
+421,2025-02-24,South,Beauty,Globex,Shipping Damage,Standard,2,138
+422,2025-02-25,South,Home & Kitchen,Soylent,Size Issue,Standard,3,159
+423,2025-02-26,South,Clothing,Soylent,Changed Mind,Premium,3,677
+424,2025-02-27,East,Toys,Globex,Changed Mind,Premium,3,420
+425,2025-02-28,West,Clothing,Soylent,Changed Mind,Premium,3,534
+426,2025-03-01,North,Beauty,Initech,Size Issue,Standard,3,735
+427,2025-03-02,North,Electronics,Initech,Changed Mind,Standard,1,775
+428,2025-03-03,West,Electronics,Initech,Size Issue,Premium,1,507
+429,2025-03-04,North,Toys,Acme,Changed Mind,Standard,4,485
+430,2025-03-05,West,Electronics,Globex,Late Delivery,Premium,1,770
+431,2025-03-06,North,Electronics,Acme,Late Delivery,Premium,4,668
+432,2025-03-07,South,Toys,Soylent,Size Issue,Standard,4,177
+433,2025-03-08,North,Toys,Acme,Late Delivery,Premium,2,293
+434,2025-03-09,West,Beauty,Soylent,Size Issue,Standard,3,384
+435,2025-03-10,West,Electronics,Soylent,Late Delivery,Standard,1,626
+436,2025-03-11,West,Electronics,Umbrella,Late Delivery,Premium,2,623
+437,2025-03-12,West,Beauty,Initech,Size Issue,Standard,1,712
+438,2025-03-13,West,Home & Kitchen,Soylent,Shipping Damage,Premium,4,255
+439,2025-03-14,East,Home & Kitchen,Umbrella,Late Delivery,Standard,1,439
+440,2025-03-15,East,Home & Kitchen,Initech,Changed Mind,Standard,3,224
+441,2025-03-16,North,Beauty,Soylent,Shipping Damage,Standard,4,970
+442,2025-03-17,West,Electronics,Soylent,Size Issue,Premium,4,379
+443,2025-03-18,North,Beauty,Acme,Shipping Damage,Standard,2,721
+444,2025-03-19,West,Beauty,Acme,Defective,Premium,3,945
+445,2025-03-20,West,Home & Kitchen,Initech,Defective,Standard,4,968
+446,2025-03-21,East,Clothing,Soylent,Late Delivery,Standard,3,757
+447,2025-03-22,East,Electronics,Globex,Late Delivery,Premium,1,827
+448,2025-03-23,South,Home & Kitchen,Acme,Changed Mind,Premium,3,773
+449,2025-03-24,East,Clothing,Initech,Shipping Damage,Premium,4,227
+450,2025-03-25,South,Clothing,Soylent,Defective,Premium,2,413
+451,2025-03-26,South,Toys,Soylent,Late Delivery,Premium,4,431
+452,2025-03-27,South,Electronics,Globex,Shipping Damage,Standard,3,249
+453,2025-03-28,South,Clothing,Initech,Late Delivery,Standard,3,553
+454,2025-03-29,South,Home & Kitchen,Soylent,Late Delivery,Premium,4,135
+455,2025-03-30,North,Toys,Acme,Defective,Standard,3,784
+456,2025-03-31,East,Electronics,Globex,Defective,Standard,1,519
+457,2025-04-01,South,Beauty,Initech,Late Delivery,Standard,4,121
+458,2025-04-02,West,Home & Kitchen,Globex,Size Issue,Premium,2,305
+459,2025-04-03,East,Clothing,Acme,Late Delivery,Standard,4,738
+460,2025-04-04,East,Clothing,Initech,Late Delivery,Standard,1,947
+461,2025-04-05,South,Home & Kitchen,Globex,Changed Mind,Standard,1,455
+462,2025-04-06,North,Clothing,Umbrella,Changed Mind,Premium,1,539
+463,2025-04-07,South,Toys,Acme,Changed Mind,Standard,1,828
+464,2025-04-08,North,Electronics,Acme,Size Issue,Standard,1,195
+465,2025-04-09,West,Toys,Acme,Size Issue,Premium,2,263
+466,2025-04-10,East,Clothing,Umbrella,Late Delivery,Premium,3,247
+467,2025-04-11,West,Beauty,Umbrella,Changed Mind,Standard,1,629
+468,2025-04-12,North,Electronics,Soylent,Size Issue,Standard,1,393
+469,2025-04-13,North,Electronics,Globex,Defective,Premium,4,294
+470,2025-04-14,West,Home & Kitchen,Soylent,Late Delivery,Premium,2,762
+471,2025-04-15,North,Home & Kitchen,Globex,Shipping Damage,Premium,2,579
+472,2025-04-16,West,Beauty,Umbrella,Late Delivery,Premium,3,976
+473,2025-04-17,East,Electronics,Umbrella,Shipping Damage,Premium,2,222
+474,2025-04-18,West,Beauty,Soylent,Changed Mind,Premium,4,499
+475,2025-04-19,East,Home & Kitchen,Initech,Shipping Damage,Premium,4,798
+476,2025-04-20,West,Home & Kitchen,Soylent,Changed Mind,Standard,3,551
+477,2025-04-21,North,Electronics,Globex,Defective,Premium,4,760
+478,2025-04-22,West,Toys,Soylent,Shipping Damage,Premium,1,203
+479,2025-04-23,North,Clothing,Acme,Late Delivery,Standard,1,854
+480,2025-04-24,West,Home & Kitchen,Globex,Changed Mind,Premium,4,561
+481,2025-04-25,West,Home & Kitchen,Globex,Late Delivery,Premium,3,842
+482,2025-04-26,South,Toys,Initech,Size Issue,Standard,2,817
+483,2025-04-27,North,Toys,Umbrella,Changed Mind,Premium,3,809
+484,2025-04-28,South,Beauty,Globex,Shipping Damage,Standard,2,495
+485,2025-04-29,North,Beauty,Umbrella,Changed Mind,Standard,4,436
+486,2025-04-30,South,Clothing,Soylent,Late Delivery,Standard,4,698
+487,2025-05-01,East,Clothing,Acme,Defective,Standard,1,241
+488,2025-05-02,West,Electronics,Initech,Changed Mind,Premium,2,416
+489,2025-05-03,North,Beauty,Umbrella,Shipping Damage,Standard,3,810
+490,2025-05-04,North,Home & Kitchen,Globex,Size Issue,Standard,4,657
+491,2025-05-05,West,Beauty,Umbrella,Defective,Premium,3,899
+492,2025-05-06,North,Home & Kitchen,Globex,Size Issue,Standard,1,626
+493,2025-05-07,North,Toys,Umbrella,Changed Mind,Standard,2,655
+494,2025-05-08,South,Beauty,Globex,Late Delivery,Standard,2,500
+495,2025-05-09,North,Toys,Soylent,Late Delivery,Standard,4,780
+496,2025-05-10,East,Clothing,Globex,Shipping Damage,Premium,2,409
+497,2025-05-11,East,Clothing,Globex,Late Delivery,Standard,4,594
+498,2025-05-12,West,Electronics,Acme,Defective,Premium,1,655
+499,2025-05-13,North,Beauty,Globex,Late Delivery,Premium,2,709
+500,2025-05-14,West,Toys,Acme,Shipping Damage,Standard,4,872
+501,2025-05-15,East,Home & Kitchen,Initech,Changed Mind,Standard,3,208
+502,2025-05-16,North,Clothing,Acme,Changed Mind,Standard,4,894
+503,2025-05-17,North,Clothing,Soylent,Late Delivery,Standard,2,471
+504,2025-05-18,West,Home & Kitchen,Acme,Size Issue,Premium,1,954
+505,2025-05-19,East,Toys,Initech,Changed Mind,Premium,2,715
+506,2025-05-20,North,Toys,Soylent,Late Delivery,Premium,2,867
+507,2025-05-21,West,Beauty,Umbrella,Shipping Damage,Standard,4,990
+508,2025-05-22,East,Beauty,Umbrella,Late Delivery,Premium,3,305
+509,2025-05-23,West,Electronics,Acme,Changed Mind,Standard,2,946
+510,2025-05-24,South,Clothing,Acme,Shipping Damage,Standard,3,142
+511,2025-05-25,North,Beauty,Initech,Late Delivery,Standard,4,964
+512,2025-05-26,South,Toys,Initech,Defective,Standard,3,344
+513,2025-05-27,East,Home & Kitchen,Globex,Shipping Damage,Standard,4,386
+514,2025-05-28,South,Toys,Initech,Defective,Premium,1,454
+515,2025-05-29,South,Clothing,Globex,Size Issue,Premium,3,884
+516,2025-05-30,East,Toys,Soylent,Shipping Damage,Standard,3,575
+517,2025-05-31,West,Electronics,Acme,Defective,Premium,1,182
+518,2025-06-01,South,Clothing,Soylent,Changed Mind,Standard,3,209
+519,2025-06-02,West,Home & Kitchen,Initech,Changed Mind,Standard,1,289
+520,2025-06-03,South,Electronics,Soylent,Size Issue,Standard,2,899
+521,2025-06-04,West,Clothing,Soylent,Shipping Damage,Premium,4,350
+522,2025-06-05,East,Home & Kitchen,Soylent,Shipping Damage,Standard,1,823
+523,2025-06-06,South,Electronics,Initech,Shipping Damage,Standard,3,390
+524,2025-06-07,East,Electronics,Soylent,Size Issue,Premium,1,744
+525,2025-06-08,South,Clothing,Globex,Shipping Damage,Premium,3,300
+526,2025-06-09,East,Beauty,Initech,Changed Mind,Premium,2,896
+527,2025-06-10,East,Electronics,Soylent,Defective,Standard,1,425
+528,2025-06-11,South,Electronics,Initech,Changed Mind,Standard,2,610
+529,2025-06-12,South,Home & Kitchen,Umbrella,Changed Mind,Premium,4,508
+530,2025-06-13,South,Toys,Globex,Defective,Standard,3,706
+531,2025-06-14,North,Clothing,Soylent,Changed Mind,Premium,3,889
+532,2025-06-15,West,Clothing,Umbrella,Size Issue,Premium,2,936
+533,2025-06-16,North,Beauty,Umbrella,Defective,Standard,4,607
+534,2025-06-17,North,Beauty,Initech,Changed Mind,Standard,1,830
+535,2025-06-18,East,Clothing,Umbrella,Late Delivery,Premium,1,700
+536,2025-06-19,South,Beauty,Globex,Changed Mind,Premium,3,171
+537,2025-06-20,West,Home & Kitchen,Globex,Size Issue,Premium,2,346
+538,2025-06-21,East,Clothing,Acme,Shipping Damage,Premium,2,740
+539,2025-06-22,North,Beauty,Globex,Changed Mind,Standard,1,823
+540,2025-06-23,South,Clothing,Umbrella,Shipping Damage,Premium,4,954
+541,2025-06-24,East,Toys,Globex,Late Delivery,Premium,4,707
+542,2025-06-25,South,Electronics,Initech,Changed Mind,Premium,1,686
+543,2025-06-26,East,Clothing,Acme,Defective,Standard,1,665
+544,2025-06-27,South,Electronics,Umbrella,Shipping Damage,Standard,2,443
+545,2025-06-28,North,Beauty,Acme,Late Delivery,Premium,4,153
+546,2025-06-29,West,Electronics,Umbrella,Defective,Standard,1,829
+547,2025-06-30,North,Clothing,Initech,Defective,Standard,1,627
+548,2025-07-01,West,Toys,Acme,Defective,Standard,3,710
+549,2025-07-02,South,Beauty,Soylent,Defective,Premium,1,631
+550,2025-07-03,East,Clothing,Umbrella,Changed Mind,Premium,1,657
+551,2025-07-04,North,Beauty,Soylent,Changed Mind,Standard,4,292
+552,2025-07-05,West,Home & Kitchen,Acme,Changed Mind,Premium,2,994
+553,2025-07-06,North,Electronics,Soylent,Late Delivery,Premium,4,157
+554,2025-07-07,West,Home & Kitchen,Soylent,Late Delivery,Standard,2,536
+555,2025-07-08,North,Clothing,Acme,Late Delivery,Standard,3,210
+556,2025-07-09,West,Toys,Initech,Size Issue,Premium,1,228
+557,2025-07-10,West,Beauty,Soylent,Late Delivery,Standard,3,948
+558,2025-07-11,South,Electronics,Soylent,Changed Mind,Premium,2,805
+559,2025-07-12,West,Beauty,Initech,Changed Mind,Premium,4,951
+560,2025-07-13,South,Clothing,Soylent,Size Issue,Standard,4,425
+561,2025-07-14,West,Beauty,Soylent,Size Issue,Premium,3,107
+562,2025-07-15,East,Electronics,Soylent,Late Delivery,Premium,2,128
+563,2025-07-16,East,Clothing,Globex,Shipping Damage,Standard,3,211
+564,2025-07-17,East,Beauty,Initech,Size Issue,Standard,3,772
+565,2025-07-18,West,Toys,Soylent,Defective,Standard,1,230
+566,2025-07-19,South,Clothing,Initech,Changed Mind,Premium,3,287
+567,2025-07-20,South,Clothing,Umbrella,Defective,Standard,1,774
+568,2025-07-21,West,Toys,Umbrella,Changed Mind,Standard,1,808
+569,2025-07-22,East,Home & Kitchen,Soylent,Changed Mind,Standard,4,574
+570,2025-07-23,East,Electronics,Initech,Size Issue,Standard,1,463
+571,2025-07-24,South,Home & Kitchen,Initech,Size Issue,Premium,1,303
+572,2025-07-25,East,Beauty,Initech,Defective,Premium,4,311
+573,2025-07-26,North,Toys,Globex,Changed Mind,Standard,3,720
+574,2025-07-27,South,Home & Kitchen,Umbrella,Defective,Premium,2,375
+575,2025-07-28,East,Clothing,Initech,Shipping Damage,Standard,2,172
+576,2025-07-29,South,Beauty,Initech,Defective,Standard,2,778
+577,2025-07-30,North,Beauty,Globex,Late Delivery,Premium,3,871
+578,2025-07-31,South,Home & Kitchen,Globex,Defective,Premium,1,342
+579,2025-08-01,South,Home & Kitchen,Initech,Late Delivery,Standard,2,886
+580,2025-08-02,South,Toys,Acme,Late Delivery,Standard,3,201
+581,2025-08-03,South,Electronics,Initech,Late Delivery,Premium,1,784
+582,2025-08-04,North,Home & Kitchen,Initech,Shipping Damage,Standard,4,270
+583,2025-08-05,West,Home & Kitchen,Globex,Defective,Premium,2,752
+584,2025-08-06,South,Clothing,Globex,Defective,Standard,1,287
+585,2025-08-07,South,Beauty,Initech,Shipping Damage,Standard,2,540
+586,2025-08-08,East,Electronics,Initech,Changed Mind,Premium,2,185
+587,2025-08-09,South,Clothing,Initech,Size Issue,Premium,2,575
+588,2025-08-10,East,Toys,Globex,Defective,Premium,1,151
+589,2025-08-11,West,Toys,Initech,Size Issue,Premium,3,210
+590,2025-08-12,North,Home & Kitchen,Initech,Shipping Damage,Premium,1,976
+591,2025-08-13,North,Home & Kitchen,Soylent,Changed Mind,Premium,2,953
+592,2025-08-14,West,Toys,Acme,Changed Mind,Premium,1,142
+593,2025-08-15,North,Home & Kitchen,Umbrella,Changed Mind,Standard,4,310
+594,2025-08-16,West,Electronics,Acme,Shipping Damage,Standard,3,299
+595,2025-08-17,West,Home & Kitchen,Soylent,Late Delivery,Standard,1,909
+596,2025-08-18,West,Beauty,Umbrella,Late Delivery,Premium,4,957
+597,2025-08-19,North,Home & Kitchen,Initech,Size Issue,Premium,3,851
+598,2025-08-20,East,Clothing,Soylent,Late Delivery,Premium,4,726
+599,2025-08-21,West,Electronics,Initech,Late Delivery,Standard,3,125
+600,2025-08-22,South,Clothing,Globex,Changed Mind,Premium,1,398
+601,2025-08-23,North,Clothing,Soylent,Changed Mind,Premium,4,176
+602,2025-08-24,West,Beauty,Globex,Size Issue,Standard,2,236
+603,2025-08-25,West,Electronics,Soylent,Defective,Premium,4,119
+604,2025-08-26,South,Electronics,Soylent,Size Issue,Standard,3,539
+605,2025-08-27,East,Electronics,Globex,Size Issue,Standard,1,310
+606,2025-08-28,East,Electronics,Umbrella,Shipping Damage,Premium,3,851
+607,2025-08-29,East,Electronics,Acme,Shipping Damage,Premium,4,650
+608,2025-08-30,West,Beauty,Initech,Size Issue,Premium,4,534
+609,2025-08-31,West,Home & Kitchen,Soylent,Size Issue,Standard,2,879
+610,2025-09-01,West,Clothing,Initech,Size Issue,Standard,1,306
+611,2025-09-02,North,Electronics,Globex,Late Delivery,Standard,1,538
+612,2025-09-03,South,Home & Kitchen,Initech,Shipping Damage,Premium,4,878
+613,2025-09-04,West,Home & Kitchen,Globex,Size Issue,Premium,1,765
+614,2025-09-05,South,Clothing,Initech,Changed Mind,Premium,2,141
+615,2025-09-06,South,Beauty,Acme,Changed Mind,Premium,3,510
+616,2025-09-07,East,Toys,Acme,Late Delivery,Standard,1,622
+617,2025-09-08,North,Toys,Acme,Late Delivery,Standard,4,905
+618,2025-09-09,West,Home & Kitchen,Acme,Defective,Standard,3,709
+619,2025-09-10,East,Clothing,Acme,Defective,Standard,3,526
+620,2025-09-11,East,Toys,Acme,Defective,Premium,2,374
+621,2025-09-12,West,Home & Kitchen,Globex,Late Delivery,Premium,4,547
+622,2025-09-13,South,Beauty,Soylent,Late Delivery,Premium,1,983
+623,2025-09-14,East,Toys,Initech,Late Delivery,Standard,4,841
+624,2025-09-15,South,Home & Kitchen,Acme,Changed Mind,Standard,3,468
+625,2025-09-16,North,Home & Kitchen,Globex,Late Delivery,Premium,4,319
+626,2025-09-17,South,Electronics,Globex,Changed Mind,Premium,1,676
+627,2025-09-18,North,Beauty,Globex,Defective,Standard,1,966
+628,2025-09-19,South,Electronics,Soylent,Defective,Premium,2,331
+629,2025-09-20,East,Clothing,Initech,Defective,Standard,1,427
+630,2025-09-21,East,Electronics,Soylent,Size Issue,Standard,1,542
+631,2025-09-22,North,Electronics,Umbrella,Size Issue,Standard,4,151
+632,2025-09-23,West,Toys,Globex,Shipping Damage,Premium,4,985
+633,2025-09-24,North,Home & Kitchen,Umbrella,Shipping Damage,Premium,3,475
+634,2025-09-25,North,Beauty,Acme,Shipping Damage,Standard,2,362
+635,2025-09-26,South,Electronics,Acme,Size Issue,Premium,4,366
+636,2025-09-27,South,Beauty,Soylent,Size Issue,Standard,1,458
+637,2025-09-28,North,Electronics,Initech,Shipping Damage,Standard,3,416
+638,2025-09-29,East,Clothing,Umbrella,Shipping Damage,Standard,4,423
+639,2025-09-30,South,Electronics,Initech,Late Delivery,Standard,2,765
+640,2025-10-01,West,Toys,Soylent,Shipping Damage,Premium,2,969
+641,2025-10-02,South,Home & Kitchen,Acme,Late Delivery,Standard,3,977
+642,2025-10-03,South,Clothing,Initech,Changed Mind,Standard,3,751
+643,2025-10-04,West,Electronics,Initech,Size Issue,Premium,3,662
+644,2025-10-05,North,Beauty,Acme,Shipping Damage,Standard,3,728
+645,2025-10-06,West,Clothing,Umbrella,Size Issue,Standard,3,520
+646,2025-10-07,North,Clothing,Acme,Size Issue,Premium,1,145
+647,2025-10-08,North,Electronics,Initech,Size Issue,Premium,1,920
+648,2025-10-09,North,Clothing,Umbrella,Changed Mind,Premium,4,699
+649,2025-10-10,West,Beauty,Umbrella,Defective,Standard,2,819
+650,2025-10-11,North,Clothing,Acme,Shipping Damage,Premium,1,988
+651,2025-10-12,East,Beauty,Initech,Defective,Premium,1,368
+652,2025-10-13,West,Electronics,Soylent,Defective,Standard,1,700
+653,2025-10-14,East,Home & Kitchen,Initech,Defective,Standard,4,480
+654,2025-10-15,North,Clothing,Globex,Size Issue,Standard,3,217
+655,2025-10-16,South,Home & Kitchen,Soylent,Late Delivery,Standard,4,665
+656,2025-10-17,North,Beauty,Umbrella,Size Issue,Standard,2,215
+657,2025-10-18,East,Clothing,Soylent,Size Issue,Premium,2,729
+658,2025-10-19,East,Toys,Umbrella,Defective,Premium,2,359
+659,2025-10-20,West,Home & Kitchen,Umbrella,Size Issue,Premium,2,174
+660,2025-10-21,South,Clothing,Soylent,Defective,Standard,1,579
+661,2025-10-22,West,Home & Kitchen,Umbrella,Late Delivery,Standard,1,404
+662,2025-10-23,East,Clothing,Umbrella,Shipping Damage,Standard,4,106
+663,2025-10-24,North,Electronics,Globex,Defective,Premium,3,465
+664,2025-10-25,South,Home & Kitchen,Initech,Late Delivery,Premium,2,733
+665,2025-10-26,North,Toys,Initech,Shipping Damage,Standard,4,622
+666,2025-10-27,North,Toys,Globex,Changed Mind,Premium,1,447
+667,2025-10-28,South,Beauty,Soylent,Defective,Standard,1,537
+668,2025-10-29,West,Clothing,Acme,Defective,Premium,3,314
+669,2025-10-30,North,Home & Kitchen,Acme,Changed Mind,Premium,3,528
+670,2025-10-31,East,Beauty,Acme,Changed Mind,Premium,3,890
+671,2025-11-01,North,Home & Kitchen,Globex,Defective,Standard,4,597
+672,2025-11-02,South,Clothing,Globex,Changed Mind,Premium,1,639
+673,2025-11-03,South,Toys,Umbrella,Size Issue,Premium,1,846
+674,2025-11-04,South,Electronics,Acme,Shipping Damage,Standard,3,466
+675,2025-11-05,West,Toys,Soylent,Shipping Damage,Premium,2,412
+676,2025-11-06,North,Beauty,Soylent,Shipping Damage,Standard,3,637
+677,2025-11-07,West,Electronics,Acme,Size Issue,Standard,4,153
+678,2025-11-08,West,Beauty,Acme,Changed Mind,Standard,3,640
+679,2025-11-09,South,Clothing,Acme,Late Delivery,Standard,3,566
+680,2025-11-10,South,Electronics,Globex,Changed Mind,Standard,4,964
+681,2025-11-11,West,Beauty,Globex,Defective,Premium,3,263
+682,2025-11-12,North,Clothing,Globex,Shipping Damage,Standard,1,881
+683,2025-11-13,East,Toys,Initech,Changed Mind,Standard,2,433
+684,2025-11-14,West,Clothing,Soylent,Late Delivery,Standard,3,646
+685,2025-11-15,North,Home & Kitchen,Soylent,Defective,Standard,4,897
+686,2025-11-16,South,Clothing,Umbrella,Size Issue,Premium,2,447
+687,2025-11-17,South,Clothing,Globex,Size Issue,Standard,4,372
+688,2025-11-18,North,Home & Kitchen,Initech,Late Delivery,Premium,2,819
+689,2025-11-19,East,Beauty,Initech,Defective,Standard,2,849
+690,2025-11-20,South,Beauty,Soylent,Shipping Damage,Premium,3,513
+691,2025-11-21,South,Clothing,Globex,Changed Mind,Standard,1,599
+692,2025-11-22,South,Home & Kitchen,Umbrella,Defective,Standard,3,192
+693,2025-11-23,North,Home & Kitchen,Globex,Size Issue,Premium,4,784
+694,2025-11-24,West,Toys,Acme,Late Delivery,Standard,4,178
+695,2025-11-25,South,Beauty,Globex,Late Delivery,Premium,2,721
+696,2025-11-26,West,Electronics,Acme,Changed Mind,Standard,2,316
+697,2025-11-27,East,Beauty,Acme,Late Delivery,Premium,1,457
+698,2025-11-28,South,Beauty,Umbrella,Late Delivery,Standard,3,717
+699,2025-11-29,South,Toys,Soylent,Defective,Standard,4,606
+700,2025-11-30,East,Electronics,Globex,Shipping Damage,Premium,2,658
+701,2025-12-01,South,Toys,Acme,Changed Mind,Standard,1,280
+702,2025-12-02,West,Electronics,Globex,Defective,Standard,4,675
+703,2025-12-03,North,Clothing,Soylent,Shipping Damage,Standard,2,345
+704,2025-12-04,West,Electronics,Soylent,Defective,Standard,4,343
+705,2025-12-05,North,Toys,Initech,Defective,Standard,1,605
+706,2025-12-06,North,Beauty,Soylent,Late Delivery,Standard,1,521
+707,2025-12-07,West,Electronics,Umbrella,Shipping Damage,Premium,4,419
+708,2025-12-08,West,Electronics,Acme,Changed Mind,Premium,3,186
+709,2025-12-09,West,Home & Kitchen,Initech,Changed Mind,Premium,4,316
+710,2025-12-10,West,Beauty,Umbrella,Shipping Damage,Standard,2,589
+711,2025-12-11,East,Clothing,Globex,Late Delivery,Premium,3,618
+712,2025-12-12,South,Toys,Acme,Size Issue,Standard,2,377
+713,2025-12-13,North,Clothing,Soylent,Defective,Standard,4,948
+714,2025-12-14,West,Beauty,Acme,Late Delivery,Standard,3,821
+715,2025-12-15,West,Electronics,Globex,Shipping Damage,Standard,2,268
+716,2025-12-16,West,Electronics,Initech,Defective,Premium,4,429
+717,2025-12-17,East,Beauty,Initech,Changed Mind,Standard,4,749
+718,2025-12-18,West,Electronics,Initech,Size Issue,Premium,3,540
+719,2025-12-19,West,Electronics,Soylent,Changed Mind,Standard,4,490
+720,2025-12-20,West,Electronics,Umbrella,Shipping Damage,Premium,1,595
+721,2025-12-21,South,Toys,Umbrella,Defective,Premium,2,480
+722,2025-12-22,East,Toys,Acme,Shipping Damage,Premium,2,405
+723,2025-12-23,West,Home & Kitchen,Soylent,Defective,Premium,4,841
+724,2025-12-24,North,Clothing,Initech,Late Delivery,Premium,4,919
+725,2025-12-25,North,Beauty,Initech,Size Issue,Premium,1,772
+726,2025-12-26,North,Beauty,Globex,Late Delivery,Standard,3,612
+727,2025-12-27,East,Beauty,Globex,Late Delivery,Premium,4,847
+728,2025-12-28,East,Home & Kitchen,Initech,Shipping Damage,Standard,4,287
+729,2025-12-29,North,Toys,Initech,Size Issue,Premium,4,615
+730,2025-12-30,West,Home & Kitchen,Soylent,Defective,Standard,4,743
+731,2025-12-31,East,Beauty,Umbrella,Defective,Premium,2,526
+732,2026-01-01,North,Clothing,Globex,Changed Mind,Premium,4,601
+733,2026-01-02,North,Electronics,Umbrella,Defective,Standard,2,829
+734,2026-01-03,West,Toys,Soylent,Shipping Damage,Premium,4,359
+735,2026-01-04,South,Toys,Initech,Late Delivery,Premium,3,612
+736,2026-01-05,East,Home & Kitchen,Umbrella,Late Delivery,Premium,1,170
+737,2026-01-06,West,Toys,Initech,Late Delivery,Standard,3,577
+738,2026-01-07,North,Beauty,Initech,Size Issue,Premium,4,277
+739,2026-01-08,North,Beauty,Acme,Defective,Standard,4,556
+740,2026-01-09,West,Home & Kitchen,Umbrella,Shipping Damage,Premium,4,288
+741,2026-01-10,East,Beauty,Umbrella,Size Issue,Premium,3,390
+742,2026-01-11,South,Clothing,Initech,Changed Mind,Standard,4,619
+743,2026-01-12,South,Home & Kitchen,Soylent,Shipping Damage,Premium,3,864
+744,2026-01-13,North,Clothing,Acme,Shipping Damage,Premium,2,391
+745,2026-01-14,East,Electronics,Initech,Shipping Damage,Standard,1,855
+746,2026-01-15,South,Clothing,Globex,Late Delivery,Premium,1,734
+747,2026-01-16,East,Electronics,Globex,Shipping Damage,Standard,3,910
+748,2026-01-17,East,Electronics,Acme,Defective,Standard,2,382
+749,2026-01-18,North,Clothing,Soylent,Shipping Damage,Standard,3,643
+750,2026-01-19,South,Home & Kitchen,Initech,Late Delivery,Premium,2,945
+751,2026-01-20,West,Beauty,Umbrella,Shipping Damage,Standard,4,476
+752,2026-01-21,North,Beauty,Acme,Changed Mind,Standard,2,757
+753,2026-01-22,South,Electronics,Soylent,Changed Mind,Premium,2,255
+754,2026-01-23,South,Electronics,Umbrella,Late Delivery,Standard,2,607
+755,2026-01-24,South,Home & Kitchen,Globex,Defective,Premium,1,512
+756,2026-01-25,South,Toys,Globex,Defective,Premium,2,627
+757,2026-01-26,South,Clothing,Umbrella,Size Issue,Premium,4,454
+758,2026-01-27,East,Electronics,Acme,Late Delivery,Premium,4,658
+759,2026-01-28,North,Beauty,Globex,Shipping Damage,Standard,4,862
+760,2026-01-29,East,Home & Kitchen,Initech,Late Delivery,Standard,2,286
+761,2026-01-30,West,Clothing,Umbrella,Size Issue,Standard,3,130
+762,2026-01-31,South,Home & Kitchen,Umbrella,Late Delivery,Standard,3,359
+763,2026-02-01,North,Clothing,Globex,Late Delivery,Standard,4,520
+764,2026-02-02,South,Clothing,Acme,Size Issue,Premium,1,628
+765,2026-02-03,North,Electronics,Initech,Defective,Standard,3,650
+766,2026-02-04,East,Home & Kitchen,Acme,Shipping Damage,Standard,2,403
+767,2026-02-05,North,Home & Kitchen,Soylent,Size Issue,Standard,3,138
+768,2026-02-06,West,Beauty,Soylent,Changed Mind,Premium,4,588
+769,2026-02-07,West,Beauty,Globex,Defective,Premium,1,743
+770,2026-02-08,North,Electronics,Globex,Changed Mind,Standard,3,641
+771,2026-02-09,North,Electronics,Globex,Defective,Premium,3,769
+772,2026-02-10,North,Toys,Soylent,Shipping Damage,Standard,4,377
+773,2026-02-11,North,Beauty,Acme,Shipping Damage,Standard,1,302
+774,2026-02-12,West,Clothing,Acme,Late Delivery,Premium,1,165
+775,2026-02-13,South,Home & Kitchen,Globex,Changed Mind,Premium,4,207
+776,2026-02-14,North,Electronics,Initech,Defective,Standard,2,367
+777,2026-02-15,North,Home & Kitchen,Acme,Shipping Damage,Standard,3,321
+778,2026-02-16,West,Home & Kitchen,Soylent,Size Issue,Premium,2,903
+779,2026-02-17,West,Toys,Umbrella,Shipping Damage,Standard,3,629
+780,2026-02-18,East,Beauty,Umbrella,Size Issue,Premium,3,189
+781,2026-02-19,North,Electronics,Umbrella,Defective,Standard,2,792
+782,2026-02-20,East,Home & Kitchen,Initech,Shipping Damage,Premium,4,354
+783,2026-02-21,West,Electronics,Globex,Shipping Damage,Standard,4,554
+784,2026-02-22,West,Clothing,Soylent,Defective,Standard,3,352
+785,2026-02-23,South,Toys,Initech,Shipping Damage,Premium,4,356
+786,2026-02-24,North,Clothing,Soylent,Size Issue,Standard,3,482
+787,2026-02-25,East,Electronics,Soylent,Shipping Damage,Standard,4,541
+788,2026-02-26,West,Electronics,Globex,Changed Mind,Premium,3,957
+789,2026-02-27,West,Beauty,Umbrella,Late Delivery,Standard,4,698
+790,2026-02-28,East,Home & Kitchen,Globex,Size Issue,Standard,1,189
+791,2026-03-01,South,Home & Kitchen,Initech,Changed Mind,Standard,2,848
+792,2026-03-02,West,Clothing,Initech,Defective,Premium,1,489
+793,2026-03-03,North,Toys,Initech,Size Issue,Premium,2,681
+794,2026-03-04,West,Home & Kitchen,Globex,Late Delivery,Premium,2,143
+795,2026-03-05,North,Beauty,Soylent,Late Delivery,Standard,3,811
+796,2026-03-06,East,Clothing,Soylent,Defective,Standard,2,763
+797,2026-03-07,North,Clothing,Acme,Defective,Standard,1,697
+798,2026-03-08,East,Beauty,Initech,Size Issue,Standard,1,118
+799,2026-03-09,North,Toys,Soylent,Shipping Damage,Premium,4,200
+800,2026-03-10,East,Beauty,Acme,Defective,Standard,1,706
+801,2026-03-11,North,Toys,Soylent,Shipping Damage,Standard,4,865
+802,2026-03-12,South,Beauty,Initech,Changed Mind,Standard,2,456
+803,2026-03-13,North,Beauty,Umbrella,Late Delivery,Premium,1,641
+804,2026-03-14,North,Electronics,Initech,Shipping Damage,Standard,2,860
+805,2026-03-15,South,Clothing,Globex,Late Delivery,Standard,1,132
+806,2026-03-16,West,Beauty,Soylent,Shipping Damage,Standard,1,328
+807,2026-03-17,West,Beauty,Soylent,Changed Mind,Standard,4,623
+808,2026-03-18,North,Home & Kitchen,Globex,Defective,Standard,2,729
+809,2026-03-19,South,Clothing,Globex,Changed Mind,Premium,1,961
+810,2026-03-20,North,Home & Kitchen,Umbrella,Defective,Standard,3,254
+811,2026-03-21,East,Clothing,Soylent,Defective,Standard,2,522
+812,2026-03-22,East,Home & Kitchen,Soylent,Late Delivery,Standard,2,345
+813,2026-03-23,North,Beauty,Umbrella,Changed Mind,Standard,2,504
+814,2026-03-24,West,Beauty,Acme,Shipping Damage,Standard,4,943
+815,2026-03-25,West,Electronics,Umbrella,Changed Mind,Standard,3,858
+816,2026-03-26,North,Home & Kitchen,Initech,Late Delivery,Standard,2,640
+817,2026-03-27,North,Toys,Soylent,Defective,Standard,1,260
+818,2026-03-28,East,Electronics,Globex,Late Delivery,Standard,1,846
+819,2026-03-29,West,Home & Kitchen,Initech,Size Issue,Standard,4,801
+820,2026-03-30,North,Home & Kitchen,Soylent,Size Issue,Premium,1,216
+821,2026-03-31,East,Electronics,Umbrella,Shipping Damage,Premium,2,370
+822,2026-04-01,West,Beauty,Initech,Late Delivery,Premium,1,869
+823,2026-04-02,South,Home & Kitchen,Soylent,Shipping Damage,Premium,2,791
+824,2026-04-03,East,Beauty,Acme,Shipping Damage,Standard,1,586
+825,2026-04-04,West,Electronics,Acme,Size Issue,Premium,3,984
+826,2026-04-05,West,Beauty,Globex,Shipping Damage,Premium,4,271
+827,2026-04-06,East,Clothing,Soylent,Size Issue,Standard,4,373
+828,2026-04-07,South,Toys,Acme,Defective,Premium,3,358
+829,2026-04-08,East,Home & Kitchen,Umbrella,Late Delivery,Premium,3,234
+830,2026-04-09,West,Toys,Soylent,Shipping Damage,Standard,4,782
+831,2026-04-10,North,Beauty,Umbrella,Size Issue,Standard,3,821
+832,2026-04-11,North,Home & Kitchen,Umbrella,Changed Mind,Standard,2,847
+833,2026-04-12,East,Beauty,Acme,Shipping Damage,Premium,1,521
+834,2026-04-13,West,Clothing,Soylent,Defective,Premium,4,520
+835,2026-04-14,North,Electronics,Initech,Defective,Standard,3,285
+836,2026-04-15,West,Home & Kitchen,Acme,Changed Mind,Standard,2,463
+837,2026-04-16,East,Clothing,Acme,Size Issue,Premium,4,706
+838,2026-04-17,North,Clothing,Soylent,Shipping Damage,Standard,3,477
+839,2026-04-18,West,Home & Kitchen,Soylent,Size Issue,Premium,4,622
+840,2026-04-19,North,Beauty,Umbrella,Defective,Standard,3,679
+841,2026-04-20,East,Clothing,Soylent,Size Issue,Standard,4,990
+842,2026-04-21,West,Toys,Umbrella,Defective,Premium,2,821
+843,2026-04-22,North,Clothing,Acme,Size Issue,Standard,2,295
+844,2026-04-23,East,Beauty,Globex,Changed Mind,Standard,1,980
+845,2026-04-24,North,Beauty,Initech,Late Delivery,Standard,4,197
+846,2026-04-25,North,Toys,Acme,Changed Mind,Premium,1,704
+847,2026-04-26,South,Clothing,Soylent,Changed Mind,Standard,4,121
+848,2026-04-27,South,Beauty,Initech,Late Delivery,Standard,3,549
+849,2026-04-28,East,Home & Kitchen,Globex,Late Delivery,Standard,3,271
+850,2026-04-29,South,Electronics,Globex,Shipping Damage,Standard,1,482
+851,2026-04-30,East,Electronics,Umbrella,Shipping Damage,Standard,4,233
+852,2026-05-01,South,Electronics,Initech,Changed Mind,Standard,1,525
+853,2026-05-02,North,Clothing,Umbrella,Changed Mind,Premium,2,124
+854,2026-05-03,East,Toys,Acme,Defective,Premium,1,602
+855,2026-05-04,East,Beauty,Initech,Defective,Standard,1,284
+856,2026-05-05,North,Home & Kitchen,Acme,Shipping Damage,Premium,3,184
+857,2026-05-06,East,Home & Kitchen,Umbrella,Shipping Damage,Premium,1,666
+858,2026-05-07,East,Clothing,Initech,Defective,Standard,4,862
+859,2026-05-08,South,Electronics,Umbrella,Defective,Premium,3,243
+860,2026-05-09,East,Clothing,Initech,Size Issue,Premium,1,962
+861,2026-05-10,West,Toys,Umbrella,Size Issue,Premium,2,778
+862,2026-05-11,North,Toys,Globex,Defective,Premium,1,511
+863,2026-05-12,South,Beauty,Umbrella,Size Issue,Premium,1,323
+864,2026-05-13,South,Beauty,Globex,Late Delivery,Premium,1,319
+865,2026-05-14,West,Toys,Umbrella,Shipping Damage,Premium,3,278
+866,2026-05-15,North,Toys,Initech,Shipping Damage,Premium,4,730
+867,2026-05-16,North,Toys,Initech,Defective,Standard,2,532
+868,2026-05-17,South,Clothing,Initech,Changed Mind,Standard,1,364
+869,2026-05-18,East,Toys,Soylent,Defective,Premium,4,528
+870,2026-05-19,South,Home & Kitchen,Acme,Size Issue,Premium,4,761
+871,2026-05-20,North,Electronics,Initech,Changed Mind,Standard,3,515
+872,2026-05-21,West,Toys,Globex,Size Issue,Premium,2,552
+873,2026-05-22,South,Electronics,Initech,Late Delivery,Premium,3,826
+874,2026-05-23,North,Clothing,Soylent,Size Issue,Standard,4,296
+875,2026-05-24,South,Electronics,Globex,Late Delivery,Standard,4,653
+876,2026-05-25,East,Clothing,Soylent,Late Delivery,Standard,4,152
+877,2026-05-26,South,Home & Kitchen,Globex,Size Issue,Premium,3,579
+878,2026-05-27,South,Clothing,Umbrella,Size Issue,Premium,2,542
+879,2026-05-28,North,Clothing,Acme,Late Delivery,Standard,1,429
+880,2026-05-29,North,Beauty,Acme,Changed Mind,Standard,3,350
+881,2026-05-30,North,Toys,Soylent,Late Delivery,Premium,4,906
+882,2026-05-31,South,Toys,Acme,Shipping Damage,Standard,3,989
+883,2026-06-01,East,Home & Kitchen,Soylent,Late Delivery,Premium,4,882
+884,2026-06-02,West,Home & Kitchen,Soylent,Changed Mind,Premium,1,222
+885,2026-06-03,West,Toys,Soylent,Shipping Damage,Standard,1,978
+886,2026-06-04,North,Beauty,Acme,Defective,Standard,2,486
+887,2026-06-05,North,Toys,Soylent,Defective,Premium,4,438
+888,2026-06-06,South,Beauty,Acme,Changed Mind,Standard,2,877
+889,2026-06-07,West,Home & Kitchen,Soylent,Late Delivery,Standard,2,447
+890,2026-06-08,North,Electronics,Initech,Size Issue,Standard,1,128
+891,2026-06-09,East,Home & Kitchen,Soylent,Changed Mind,Standard,3,134
+892,2026-06-10,East,Home & Kitchen,Globex,Shipping Damage,Premium,3,617
+893,2026-06-11,North,Clothing,Soylent,Shipping Damage,Premium,2,495
+894,2026-06-12,North,Clothing,Umbrella,Defective,Premium,1,722
+895,2026-06-13,West,Clothing,Soylent,Shipping Damage,Premium,4,393
+896,2026-06-14,West,Clothing,Globex,Changed Mind,Standard,3,688
+897,2026-06-15,South,Beauty,Globex,Shipping Damage,Standard,2,448
+898,2026-06-16,West,Toys,Acme,Changed Mind,Premium,3,246
+899,2026-06-17,East,Electronics,Initech,Size Issue,Premium,3,166
+900,2026-06-18,East,Home & Kitchen,Soylent,Defective,Standard,4,619
+901,2026-06-19,North,Beauty,Acme,Shipping Damage,Premium,1,221
+902,2026-06-20,West,Electronics,Initech,Changed Mind,Premium,4,439
+903,2026-06-21,South,Beauty,Soylent,Late Delivery,Standard,1,274
+904,2026-06-22,East,Beauty,Umbrella,Defective,Premium,3,999
+905,2026-06-23,East,Home & Kitchen,Soylent,Size Issue,Standard,2,790
+906,2026-06-24,South,Toys,Globex,Changed Mind,Standard,4,696
+907,2026-06-25,South,Clothing,Globex,Size Issue,Premium,1,550
+908,2026-06-26,East,Toys,Umbrella,Size Issue,Standard,3,656
+909,2026-06-27,East,Home & Kitchen,Acme,Shipping Damage,Premium,1,235
+910,2026-06-28,South,Home & Kitchen,Initech,Shipping Damage,Standard,1,954
+911,2026-06-29,East,Home & Kitchen,Soylent,Changed Mind,Premium,1,115
+912,2026-06-30,North,Electronics,Globex,Late Delivery,Premium,3,432
+913,2026-07-01,North,Toys,Acme,Changed Mind,Premium,2,294
+914,2026-07-02,South,Toys,Umbrella,Late Delivery,Standard,2,595
+915,2026-07-03,West,Beauty,Globex,Size Issue,Standard,2,108
+916,2026-07-04,South,Beauty,Umbrella,Defective,Premium,1,927
+917,2026-07-05,South,Beauty,Soylent,Changed Mind,Standard,3,433
+918,2026-07-06,West,Home & Kitchen,Initech,Changed Mind,Premium,1,432
+919,2026-07-07,West,Toys,Globex,Late Delivery,Premium,2,426
+920,2026-07-08,West,Home & Kitchen,Globex,Size Issue,Standard,2,114
+921,2026-07-09,North,Electronics,Soylent,Size Issue,Premium,3,938
+922,2026-07-10,East,Beauty,Acme,Late Delivery,Standard,1,713
+923,2026-07-11,North,Home & Kitchen,Initech,Size Issue,Premium,4,325
+924,2026-07-12,East,Home & Kitchen,Globex,Shipping Damage,Standard,4,524
+925,2026-07-13,North,Electronics,Initech,Defective,Premium,2,889
+926,2026-07-14,East,Clothing,Globex,Changed Mind,Premium,3,507
+927,2026-07-15,North,Toys,Initech,Defective,Standard,1,212
+928,2026-07-16,West,Clothing,Umbrella,Changed Mind,Premium,1,527
+929,2026-07-17,South,Beauty,Globex,Shipping Damage,Premium,2,100
+930,2026-07-18,North,Home & Kitchen,Initech,Size Issue,Standard,2,365
+931,2026-07-19,East,Electronics,Acme,Late Delivery,Premium,1,590
+932,2026-07-20,West,Electronics,Umbrella,Shipping Damage,Standard,1,307
+933,2026-07-21,North,Toys,Umbrella,Defective,Premium,2,721
+934,2026-07-22,North,Clothing,Acme,Late Delivery,Standard,1,811
+935,2026-07-23,West,Toys,Initech,Size Issue,Premium,4,468
+936,2026-07-24,North,Home & Kitchen,Soylent,Shipping Damage,Premium,2,405
+937,2026-07-25,South,Toys,Acme,Late Delivery,Premium,1,111
+938,2026-07-26,North,Electronics,Initech,Shipping Damage,Standard,2,444
+939,2026-07-27,South,Electronics,Acme,Shipping Damage,Standard,3,564
+940,2026-07-28,South,Beauty,Acme,Size Issue,Standard,2,799
+941,2026-07-29,West,Beauty,Globex,Changed Mind,Standard,2,765
+942,2026-07-30,North,Home & Kitchen,Initech,Late Delivery,Premium,3,593
+943,2026-07-31,West,Clothing,Soylent,Size Issue,Premium,4,467
+944,2026-08-01,North,Toys,Globex,Shipping Damage,Standard,1,945
+945,2026-08-02,North,Home & Kitchen,Acme,Size Issue,Standard,3,519
+946,2026-08-03,East,Beauty,Acme,Changed Mind,Standard,2,988
+947,2026-08-04,North,Toys,Acme,Late Delivery,Premium,1,890
+948,2026-08-05,West,Beauty,Initech,Changed Mind,Standard,3,270
+949,2026-08-06,South,Toys,Initech,Defective,Standard,1,233
+950,2026-08-07,North,Clothing,Globex,Late Delivery,Premium,1,526
+951,2026-08-08,East,Home & Kitchen,Soylent,Changed Mind,Premium,3,124
+952,2026-08-09,West,Toys,Globex,Shipping Damage,Standard,1,629
+953,2026-08-10,North,Electronics,Umbrella,Late Delivery,Premium,4,289
+954,2026-08-11,West,Electronics,Acme,Late Delivery,Standard,3,240
+955,2026-08-12,East,Toys,Acme,Size Issue,Premium,4,654
+956,2026-08-13,East,Toys,Acme,Shipping Damage,Standard,2,945
+957,2026-08-14,West,Toys,Globex,Defective,Standard,1,895
+958,2026-08-15,North,Electronics,Globex,Changed Mind,Standard,2,757
+959,2026-08-16,South,Electronics,Acme,Size Issue,Standard,2,414
+960,2026-08-17,East,Toys,Globex,Changed Mind,Premium,1,543
+961,2026-08-18,North,Beauty,Initech,Defective,Premium,3,418
+962,2026-08-19,North,Beauty,Initech,Defective,Premium,1,540
+963,2026-08-20,South,Clothing,Globex,Late Delivery,Premium,2,191
+964,2026-08-21,East,Home & Kitchen,Acme,Defective,Standard,2,278
+965,2026-08-22,East,Beauty,Globex,Changed Mind,Standard,3,155
+966,2026-08-23,North,Electronics,Globex,Shipping Damage,Premium,1,254
+967,2026-08-24,North,Beauty,Globex,Shipping Damage,Premium,2,771
+968,2026-08-25,South,Clothing,Umbrella,Late Delivery,Premium,4,210
+969,2026-08-26,South,Clothing,Initech,Changed Mind,Premium,2,236
+970,2026-08-27,East,Home & Kitchen,Soylent,Changed Mind,Premium,2,331
+971,2026-08-28,West,Beauty,Soylent,Defective,Standard,3,567
+972,2026-08-29,East,Electronics,Umbrella,Changed Mind,Standard,4,831
+973,2026-08-30,North,Electronics,Globex,Size Issue,Standard,2,580
+974,2026-08-31,East,Toys,Umbrella,Defective,Premium,2,167
+975,2026-09-01,West,Electronics,Umbrella,Size Issue,Premium,4,913
+976,2026-09-02,South,Home & Kitchen,Acme,Late Delivery,Premium,1,348
+977,2026-09-03,West,Home & Kitchen,Initech,Shipping Damage,Premium,1,422
+978,2026-09-04,West,Electronics,Soylent,Late Delivery,Standard,2,617
+979,2026-09-05,West,Electronics,Globex,Shipping Damage,Standard,2,891
+980,2026-09-06,South,Toys,Soylent,Late Delivery,Premium,1,531
+981,2026-09-07,West,Electronics,Soylent,Changed Mind,Standard,3,586
+982,2026-09-08,West,Toys,Initech,Size Issue,Standard,4,705
+983,2026-09-09,West,Toys,Soylent,Shipping Damage,Premium,4,528
+984,2026-09-10,North,Electronics,Soylent,Defective,Premium,3,368
+985,2026-09-11,West,Clothing,Umbrella,Size Issue,Premium,3,808
+986,2026-09-12,South,Clothing,Initech,Defective,Premium,3,636
+987,2026-09-13,West,Toys,Acme,Size Issue,Premium,3,247
+988,2026-09-14,West,Electronics,Globex,Size Issue,Premium,3,217
+989,2026-09-15,South,Clothing,Soylent,Late Delivery,Standard,3,949
+990,2026-09-16,West,Electronics,Globex,Shipping Damage,Standard,4,466
+991,2026-09-17,South,Electronics,Acme,Shipping Damage,Premium,3,949
+992,2026-09-18,West,Electronics,Globex,Size Issue,Standard,1,165
+993,2026-09-19,South,Beauty,Acme,Changed Mind,Premium,3,912
+994,2026-09-20,West,Electronics,Umbrella,Changed Mind,Premium,3,469
+995,2026-09-21,West,Beauty,Soylent,Defective,Premium,4,274
+996,2026-09-22,North,Toys,Acme,Defective,Premium,4,930
+997,2026-09-23,North,Clothing,Globex,Late Delivery,Standard,3,687
+998,2026-09-24,West,Clothing,Soylent,Size Issue,Premium,4,594
+999,2026-09-25,West,Clothing,Umbrella,Defective,Standard,2,213
+1000,2026-09-26,East,Clothing,Soylent,Defective,Premium,4,210
